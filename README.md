@@ -6,8 +6,8 @@
 </p>
 
 
-### This repository is MCU DC Digital Voltmeter .
-This voltmeter can read-only DC voltage from 0-5 volt and Display . 
+### This repository is Bascom_avr-Light-Strobe-Flasher with 7 different mode and speed control .
+In this flasher, the S1 to S7 keys are for setting the mode, and the UP and Down keys are for increasing and decreasing the speed of the flasher 
 
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
@@ -15,7 +15,7 @@ This voltmeter can read-only DC voltage from 0-5 volt and Display .
 
 <p align="center">
 <a href="./LICENSE.md">
-<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Flasher-Strobe-Light?style=badge">
+<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Light-Strobe-Flasher?style=badge">
 </a>
 <a href="https://www.mcselec.com/">
 <img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
