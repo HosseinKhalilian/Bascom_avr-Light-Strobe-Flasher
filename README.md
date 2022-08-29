@@ -6,7 +6,7 @@
 </p>
 
 
-### This repository is Bascom_avr-Light-Strobe-Flasher with 7 different mode and speed control .
+### This repository is Light Flasher with 7 different mode and speed control .
 In this flasher, the S1 to S7 keys are for setting the mode, and the UP and Down keys are for increasing and decreasing the speed of the flasher 
 
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
